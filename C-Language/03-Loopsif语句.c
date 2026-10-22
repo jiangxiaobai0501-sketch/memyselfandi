@@ -5,12 +5,12 @@ int main()
 	scanf("%d",&money);
 	if(money>398)
 	{
-		printf("go���㳧");
+		printf("goËÉÏã³§");
 		
 		}
 		else{
 		
-		printf("��ܾϴ�ų�") ;
+		printf("ÖÐÜ¾Ï´½Å³Ç") ;
 	}return 0;
 } 
 
