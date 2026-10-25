@@ -6,3 +6,4 @@
 
 # my-coding-journey
 c
+冒泡得设中间值接着比较后排数字再遍历输出
